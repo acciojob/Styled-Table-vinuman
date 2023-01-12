@@ -1,0 +1,4 @@
+{
+    "testRepo": "Styled-Table-Solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
