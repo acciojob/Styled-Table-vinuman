@@ -5,6 +5,7 @@ table{
 	border:none;
 	border-radius:10px;
 	text-align:left;
+	border-collapse:collapse;
 }
 
 thead{
